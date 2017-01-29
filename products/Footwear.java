@@ -1,4 +1,4 @@
-package example.codeclan.com.shop123;
+package products;
 import behaviour.*;
 
 /**

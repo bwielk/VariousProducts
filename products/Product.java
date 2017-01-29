@@ -1,4 +1,4 @@
-package example.codeclan.com.shop123;
+package products;
 
 /**
  * Created by user on 29/01/2017.

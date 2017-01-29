@@ -1,4 +1,4 @@
-package example.codeclan.com.shop123;
+import products.*;
 
 import org.junit.Before;
 import org.junit.Test;
